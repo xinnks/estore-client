@@ -1,8 +1,13 @@
 {
-  "name": "e-store",
+  "name": "estore-client",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
+  "author": "James Sinkala <xinnks@gmail.com> (https://jamesinkala.com)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xinnks/estore-client.git"
+  },
   "dependencies": {
     "vue": "^3.2.37"
   },
