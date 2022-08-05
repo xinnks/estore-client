@@ -10,7 +10,6 @@
     "preview": "vite preview"
   },
   "license": "Apache-2.0",
-  "type": "module",
   "author": "James Sinkala <xinnks@gmail.com> (https://jamesinkala.com)",
   "repository": {
     "type": "git",
